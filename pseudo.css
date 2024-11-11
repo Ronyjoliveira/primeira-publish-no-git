@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+input{
+    border: 3px solid purple; 
+    color: greenyellow;
+}
+input::placeholder{
+    color:#f40087
+}
+
+p::first-letter{
+    color:blueviolet
+}
+p::first-line{
+    color: blue;
+}
+a::before{
+    content:"-->";
+}
