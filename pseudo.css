@@ -15,7 +15,7 @@ p::first-letter{
     color:blueviolet
 }
 p::first-line{
-    color: blue;
+    color: rgb(12, 65, 88);
 }
 a::before{
     content:"-->";
