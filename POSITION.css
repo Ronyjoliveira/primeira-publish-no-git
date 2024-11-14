@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.div-dad{
+    height: 350px;
+    width: 350px;
+    background-color: brown;
+}
+
+.div-son{
+    height: 150px;
+    width: 150px;
+    background-color: aquamarine;
+}
+
+.ronaldo{
+    height: 200px;
+    width: 250px;
+    background-color: #e5d83e;
+    font-size: 50px;
+    text-align: center;
+    
+}
+p{
+    font-size: 30px;
+    margin-left: 30px;
+}
+h2{
+    margin-left: 20px;
+}
