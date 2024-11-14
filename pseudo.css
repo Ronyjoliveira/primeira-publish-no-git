@@ -8,7 +8,7 @@ input{
     color: greenyellow;
 }
 input::placeholder{
-    color:#f40087
+    color: #f40d2f;7
 }
 
 p::first-letter{
